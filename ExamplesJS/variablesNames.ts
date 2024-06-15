@@ -34,7 +34,7 @@ fuction getCompanies(){
 }
 
 
-// Open ExampleGenericsNames.ts for analytics the variables Incorrects names
+// Open file ExampleGenericsNames.ts for analytics the variables Incorrects names
 
-//
+// Open file blockeds-date.ts for analytics the variables corrects names
 
